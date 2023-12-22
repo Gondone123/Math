@@ -17,4 +17,3 @@ grafico.show()
 
 #RIGUARDO ARRANGE: prendo un valore di inizio (in questo caso, 0) e di fine (in questo caso, 20); 0.1
 #indicherebbe che lo facciamo ogni 0.1 valore, dando quindi l'illusione di una curva. 
-#Per ulteriori informazioni: GUARDA TELEGRAM
